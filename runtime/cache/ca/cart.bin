@@ -1,0 +1,1 @@
+a:2:{i:0;a:2:{s:8:"products";a:0:{}s:5:"total";i:0;}i:1;O:24:"yii\caching\DbDependency":5:{s:2:"db";s:2:"db";s:3:"sql";s:57:"select max(updatetime) from {{%cart}} where userid = :uid";s:6:"params";a:1:{s:4:":uid";N;}s:4:"data";a:1:{s:15:"max(updatetime)";N;}s:8:"reusable";b:0;}}
